@@ -4,8 +4,4 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://cdnjktbpid02.transvision.co.id/live/master/1/4028c6856c3db2cc016cd6e825832393/manifest.mpd?sign=220cef7cfee43f1e90101ebbd360b7d1&time=1756907139
-
-# ---------- Entry 2: Header-pipe style (works in banyak IPTV apps/FFmpeg-based) ----------
-#EXTINF:-1 tvg-id="" tvg-name="Transvision DASH" group-title="Transvision",Transvision (Header Pipe)
-https://cdnjktbpid02.transvision.co.id/live/master/1/4028c6856c3db2cc016cd6e825832393/manifest.mpd?sign=220cef7cfee43f1e90101ebbd360b7d1&time=1756907139|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36&Referer=https://www.cubmu.com/&Origin=https://www.cubmu.com
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_w2114898498_b744100_sleng.m3u8
